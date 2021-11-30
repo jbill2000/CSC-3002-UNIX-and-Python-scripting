@@ -1,3 +1,0 @@
-Luke Skywalker
-core type: three
-wing type: one
