@@ -1,4 +1,0 @@
-Sara Peak
-core type: four
-wing type: one
-
