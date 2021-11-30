@@ -1,0 +1,4 @@
+Anna Davis
+core type: three
+wing type: one
+

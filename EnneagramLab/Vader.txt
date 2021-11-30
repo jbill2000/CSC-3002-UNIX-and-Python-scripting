@@ -1,0 +1,3 @@
+Darth Vader
+core type: four
+wing type: one
