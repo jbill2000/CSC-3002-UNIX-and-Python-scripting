@@ -1,0 +1,4 @@
+Jeremy Bill
+core type: one
+wing type: four
+

@@ -1,0 +1,3 @@
+Josue Barragan
+core type: one
+wing type: two
